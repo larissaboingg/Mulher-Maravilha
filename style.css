@@ -1,0 +1,88 @@
+body{
+    border: 0;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(1, 174, 240);
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#navbar{
+    background-color: rgb(181, 39, 43);
+    padding: 5px;
+    text-align: center;
+    color: rgb(219, 168, 1);
+    -webkit-text-stroke: 0.7px;
+    -webkit-text-stroke-color: black;
+
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+#rodape{
+    padding: 10px;
+    background-color:rgb(181, 39, 43);
+    text-align: center;
+    color: rgb(219, 168, 1);
+}
+
+#icon{
+    width: 120px;
+    height: 70px;
+    margin-right: 10px;
+}
+
+#bloco_a{
+background-color: rgb(181, 39, 43);
+padding: 5px;
+text-align: center;
+color: rgb(219, 168, 1);
+-webkit-text-stroke: 0.7px;
+-webkit-text-stroke-color: black;
+
+display: flex;
+align-items:center;
+justify-content: center;
+
+margin: 50px;
+}
+
+#aliados{
+    background-color: rgb(1, 174, 240);
+    padding: 10px;
+    justify-content: space-around;
+    display: flex;
+
+   
+}
+ .aliados_c{
+    background-color: rgb(219, 168, 1);
+    padding: 10px;
+    text-align: 30px;
+    border-style: solid;
+    border-color: white;
+    text-align: center;
+    margin: 20px;
+
+}
+
+#sobre{
+margin:50px;
+    text-align: 30px;
+    border-style: solid;
+    border-color: white;
+    padding: 100px;
+    display: flex;
+    background-color: rgb(219, 168, 1);
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+}
+
+ .sobre_ela{
+    padding: 10px;
+}
+
+.ftvilao{
+    height: 300px;
+    width: 300px;
+}
